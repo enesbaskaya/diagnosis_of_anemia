@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874908259359",
+    "project_id": "kansizliktanisi",
+    "storage_bucket": "kansizliktanisi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874908259359:android:8373418a357fe5a5ff312a",
+        "android_client_info": {
+          "package_name": "com.example.kansizlik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874908259359-ce6jp2o3f8r37te54dr7r02lb477bdq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kWPtlYSG2HBuz3YbA6Nyq1e6C9Ob5Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874908259359-ce6jp2o3f8r37te54dr7r02lb477bdq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
